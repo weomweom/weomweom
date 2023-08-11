@@ -4,7 +4,7 @@ I'm a computer science student at SGGW in Warsaw, Poland.
 
 I'm currently learning React.js very hard 💪
 
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,sass,react,tailwind,ts,nextjs,nodejs,postman,linux,git,gitlab,cs,python)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,sass,react,tailwind,ts,nextjs,nodejs,postman,linux,git,gitlab)](https://skillicons.dev)
 
 ##
 <div>
