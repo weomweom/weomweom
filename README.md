@@ -4,8 +4,6 @@ I'm a computer science student at SGGW in Warsaw, Poland.
 
 I'm currently learning React.js very hard 💪
 
-I'm currently working on a currency converter in React.js to later integrate an API. 🧠
-
 <div style="display: inline_block"><br>
   <img align="center" alt="Rafa-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Rafa-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
