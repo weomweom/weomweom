@@ -2,7 +2,7 @@
 
 I'm a computer science student at SGGW in Warsaw, Poland.
 
-I'm currently learning React.js very hard 💪
+Currently, I'm working on the second stunning version of my portfolio using React + Tailwind 💪
 
 [![My Skills](https://skillicons.dev/icons?i=js,html,css,sass,react,tailwind,ts,nextjs,nodejs,postman,linux,git,gitlab)](https://skillicons.dev)
 
